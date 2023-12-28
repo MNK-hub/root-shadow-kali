@@ -62,5 +62,4 @@ Note:- Don't remove termux from background while using kali linux in VNC viwer b
 
 [+]--new session and start TOR (tor) before starting the attack
 ```
-## USAGE OPTIONS [Termux] :
-
+## USAGE OPTIONS [Termux] 
