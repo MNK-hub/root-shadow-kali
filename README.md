@@ -1,7 +1,7 @@
 
 ## ABOUT TOOL :
 
-Kalimux is a bash based script which automatically installs kali linux in termux without any issue and without root. This tool works on both rooted Android device and Non-rooted Android device.
+root-shadow-kali is a bash based script which automatically installs kali linux in termux without any issue and without root. This tool works on both rooted Android device and Non-rooted Android device.
 
 ## AVAILABLE ON :
 
